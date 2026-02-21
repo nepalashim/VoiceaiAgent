@@ -1,0 +1,20 @@
+# Secrets – never commit
+/backend/creds.json
+/backend/.env
+
+# Python
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+webhook.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
