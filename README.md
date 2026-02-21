@@ -11,7 +11,8 @@
 
 | Resource | Link |
 |----------|------|
-| **Live App** | [VoiceAssistant](https://voiceai-agent.vercel.app/) |
+| **Live Frontend App** | [VoiceAssistant](https://voiceai-agent.vercel.app/) |
+| **Backend App** | [VoiceAssistant-Backend](https://voiceai-backend-og76.onrender.com) |
 | **Demo Video** | [Watch on Google Drive](https://drive.google.com/file/d/YOUR_VIDEO_ID/view) |
 
 > **Note:** The live demo requires the backend server to be running. If the call connects but doesn't book, the backend may be offline.
