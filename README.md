@@ -11,7 +11,7 @@
 
 | Resource | Link |
 |----------|------|
-| **Live App** | [YOUR_DEPLOYED_URL](https://YOUR_DEPLOYED_URL) |
+| **Live App** | [YOUR_DEPLOYED_URL]([https://YOUR_DEPLOYED_URL](https://voiceai-agent.vercel.app/)) |
 | **Demo Video** | [Watch on Google Drive](https://drive.google.com/file/d/YOUR_VIDEO_ID/view) |
 
 > **Note:** The live demo requires the backend server to be running. If the call connects but doesn't book, the backend may be offline.
